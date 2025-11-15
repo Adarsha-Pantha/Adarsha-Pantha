@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Full-Stack / MERN Developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4C8BF5&center=true&vCenter=true&width=600&lines=Self-taught+Developer;MERN+Stack+Learner;C+%26+C%23+Enthusiast;Always+building+and+breaking+things+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4C8BF5&center=true&vCenter=true&width=600&lines=FrontEnd+Developer;MERN+Stack+Learner;C+%26+C%23+Enthusiast;Always+building+and+breaking+things+%3A)" alt="Typing SVG" />
 </p>
 
 <p align="center">
